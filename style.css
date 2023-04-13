@@ -14,7 +14,6 @@
     max-width: 444px;  
     border-radius: 40px; 
     align-content: center;
-    display: block;
     align-items: center;
     
 }
@@ -50,10 +49,10 @@ img {
 
 .improve {
     font-weight: 700;
-    font-size: 60px;
+    font-size: 1.7rem;
     text-align: center ;
     color: var(--Dark-blue);
-    line-height: 70px;
+    line-height: 40px;
     margin-top: 4rem;
     display: block;
     
